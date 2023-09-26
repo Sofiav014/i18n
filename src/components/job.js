@@ -13,7 +13,6 @@ const Job = (props) => {
         <FormattedPlural
           value= {props.offer.salary}
           zero = {<FormattedMessage id="SalaryZero"/>}
-
           one = {<FormattedMessage id="Million"/>}
           other = {<FormattedMessage id="Millions"/>}
           ></FormattedPlural>

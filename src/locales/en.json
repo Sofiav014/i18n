@@ -7,5 +7,6 @@
     "Views": "Number of Views",
     "SalaryZero": "Salary not specified",
     "Million": "Million",
-    "Millions": "Millions"
+    "Millions": "Millions",
+    "Style": "darkgray"
 }
